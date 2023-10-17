@@ -1,6 +1,6 @@
 aleo smart contract
 
-p]ewa./czs/..z/./csz
+p]ewa./czs/..z/csz
 نصب پیش نیازها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
